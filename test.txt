@@ -1,2 +1,1 @@
-to jest plik tekstowy
-robimy test drugi
+to jest pli
